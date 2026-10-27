@@ -17,6 +17,16 @@ El proyecto contiene los siguientes ficheros:
 
 Seguir las indicaciones de los ejercicio 1 y 2 del apartado 3.3.5
 
+### Variables de entorno
+
+```bash
+DB_HOST:
+DB_USER
+DB_PASSWORD
+DB_NAME
+DB_PORT
+````
+
 ### Probar que funciona
 
 En el navegador escribir:
